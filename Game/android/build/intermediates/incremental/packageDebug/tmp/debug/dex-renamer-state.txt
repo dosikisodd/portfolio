@@ -1,0 +1,4 @@
+#Sat Jun 20 21:56:58 ALMT 2020
+base.0=C\:\\Users\\Dosik\\GdxProjects\\Game\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
